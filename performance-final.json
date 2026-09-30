@@ -1,0 +1,173 @@
+[
+  {
+    "width": 1280,
+    "height": 820,
+    "overflow": 0,
+    "scrollY": 0,
+    "scrollHeight": 7942,
+    "canvas": 0,
+    "webgl": "fallback",
+    "intro": "complete",
+    "heading": "Privacy.Precision.Performance.",
+    "active": "01",
+    "pins": 1,
+    "logo": [
+      {
+        "x": 64,
+        "y": 4.5,
+        "width": 120,
+        "height": 90,
+        "bottom": 94.5
+      },
+      {
+        "x": 64,
+        "y": 7453.15625,
+        "width": 148,
+        "height": 111,
+        "bottom": 7564.15625
+      }
+    ],
+    "gallery": {
+      "x": 0,
+      "y": 1434.28125,
+      "width": 1265,
+      "height": 698.625,
+      "bottom": 2132.90625
+    },
+    "cards": [
+      {
+        "x": 64,
+        "y": 1647.828125,
+        "width": 563.1875,
+        "height": 397.640625,
+        "bottom": 2045.46875
+      },
+      {
+        "x": 657.1875,
+        "y": 1647.828125,
+        "width": 563.1875,
+        "height": 397.640625,
+        "bottom": 2045.46875
+      },
+      {
+        "x": 1250.375,
+        "y": 1647.828125,
+        "width": 563.1875,
+        "height": 397.640625,
+        "bottom": 2045.46875
+      },
+      {
+        "x": 1843.5625,
+        "y": 1647.828125,
+        "width": 563.1875,
+        "height": 397.640625,
+        "bottom": 2045.46875
+      }
+    ],
+    "images": [],
+    "metrics": {
+      "shifts": [
+        {
+          "time": 142.69999999995343,
+          "value": 0.0056527044453352415,
+          "nodes": [
+            null,
+            null,
+            null,
+            "",
+            "hero-caption"
+          ]
+        }
+      ],
+      "cls": 0.0056527044453352415,
+      "longTasks": [
+        {
+          "start": 167,
+          "duration": 52
+        }
+      ],
+      "lcp": 3036,
+      "marks": [
+        {
+          "name": "alv-intro-request",
+          "time": 2197.1999999999534
+        },
+        {
+          "name": "alv-intro-complete",
+          "time": 2197.6999999999534
+        }
+      ]
+    }
+  },
+  {
+    "width": 1280,
+    "height": 820,
+    "overflow": 0,
+    "scrollY": 0,
+    "scrollHeight": 7942,
+    "canvas": 0,
+    "webgl": "fallback",
+    "intro": "complete",
+    "heading": "Privacy.Precision.Performance.",
+    "active": "01",
+    "pins": 1,
+    "logo": [
+      {
+        "x": 64,
+        "y": 4.5,
+        "width": 120,
+        "height": 90,
+        "bottom": 94.5
+      },
+      {
+        "x": 64,
+        "y": 7453.15625,
+        "width": 148,
+        "height": 111,
+        "bottom": 7564.15625
+      }
+    ],
+    "gallery": {
+      "x": 0,
+      "y": 1434.28125,
+      "width": 1265,
+      "height": 698.625,
+      "bottom": 2132.90625
+    },
+    "cards": [
+      {
+        "x": 64,
+        "y": 1647.828125,
+        "width": 563.1875,
+        "height": 397.640625,
+        "bottom": 2045.46875
+      },
+      {
+        "x": 657.1875,
+        "y": 1647.828125,
+        "width": 563.1875,
+        "height": 397.640625,
+        "bottom": 2045.46875
+      },
+      {
+        "x": 1250.375,
+        "y": 1647.828125,
+        "width": 563.1875,
+        "height": 397.640625,
+        "bottom": 2045.46875
+      },
+      {
+        "x": 1843.5625,
+        "y": 1647.828125,
+        "width": 563.1875,
+        "height": 397.640625,
+        "bottom": 2045.46875
+      }
+    ],
+    "images": [],
+    "metrics": {
+      "lcp": 3040,
+      "marks": []
+    }
+  }
+]

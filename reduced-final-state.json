@@ -1,0 +1,116 @@
+{
+  "width": 1280,
+  "height": 820,
+  "overflow": 0,
+  "scrollY": 5916,
+  "scrollHeight": 6736,
+  "canvas": 0,
+  "webgl": "static-mobile",
+  "intro": "complete",
+  "heading": "Privacy.Precision.Performance.",
+  "active": "01",
+  "pins": 0,
+  "logo": [
+    {
+      "x": 64,
+      "y": 1.5,
+      "width": 104,
+      "height": 78,
+      "bottom": 79.5
+    },
+    {
+      "x": 64,
+      "y": 330.78125,
+      "width": 148,
+      "height": 111,
+      "bottom": 441.78125
+    }
+  ],
+  "gallery": {
+    "x": 0,
+    "y": -4481.71875,
+    "width": 1265,
+    "height": 698.625,
+    "bottom": -3783.09375
+  },
+  "cards": [
+    {
+      "x": 64,
+      "y": -4268.171875,
+      "width": 563.1875,
+      "height": 397.640625,
+      "bottom": -3870.53125
+    },
+    {
+      "x": 657.1875,
+      "y": -4268.171875,
+      "width": 563.1875,
+      "height": 397.640625,
+      "bottom": -3870.53125
+    },
+    {
+      "x": 1250.375,
+      "y": -4268.171875,
+      "width": 563.1875,
+      "height": 397.640625,
+      "bottom": -3870.53125
+    },
+    {
+      "x": 1843.5625,
+      "y": -4268.171875,
+      "width": 563.1875,
+      "height": 397.640625,
+      "bottom": -3870.53125
+    }
+  ],
+  "images": [],
+  "metrics": {
+    "shifts": [
+      {
+        "time": 60.59999999997672,
+        "value": 0.0025644176343747895,
+        "nodes": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      {
+        "time": 37586.69999999995,
+        "value": 0.7962080039525692,
+        "nodes": [
+          "footer",
+          "closing",
+          "closing-shade",
+          "testimonial section-pad",
+          ""
+        ]
+      },
+      {
+        "time": 37605.19999999995,
+        "value": 0.000312411097677194,
+        "nodes": [
+          "brand",
+          "",
+          "header-inquiry",
+          ""
+        ]
+      },
+      {
+        "time": 38925.39999999991,
+        "value": 0.000312411097677194,
+        "nodes": [
+          "brand",
+          "",
+          "header-inquiry",
+          ""
+        ]
+      }
+    ],
+    "cls": 0.7993972437822984,
+    "lcp": 80,
+    "marks": []
+  }
+}

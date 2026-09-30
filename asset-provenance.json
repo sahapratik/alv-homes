@@ -1,0 +1,217 @@
+{
+  "checked": "2026-09-29",
+  "recommendedListingIds": [
+    165,
+    164,
+    154,
+    2
+  ],
+  "permission": "Official ALV Homes website assets reused for a private client prototype. Source footer states Copyright 2024 Alanya Luxury Villas & Homes, All rights reserved. No explicit broad reuse license found. Preserve source credit and existing watermarks; public rollout should use client-cleared rights.",
+  "thailand": "No Thailand-specific image verified on the official homepage/markets pages. Do not repurpose a Bali or Turkey photo as Thailand.",
+  "assets": [
+    {
+      "key": "turkey-kargicak-coast",
+      "sourcePage": "https://www.alv-homes.com/why-turkey",
+      "imageUrl": "https://static.wixstatic.com/media/3eee0a_f8b5fccf4a514cada359c6adf8d8315b~mv2.jpg",
+      "originalPath": "/workspace/scratch/d8af6d909b29/research/assets/turkey-kargicak-coast.jpg",
+      "originalDimensions": [
+        3000,
+        1688
+      ],
+      "depicts": "Aerial view of Kargicak coastal residences, Mediterranean shoreline and hills. Official alt: Alanya, Kargicak, Coast.",
+      "note": "Hero recommendation; authentic coastline photography."
+    },
+    {
+      "key": "turkey-market",
+      "sourcePage": "https://www.alv-homes.com/why-turkey",
+      "imageUrl": "https://static.wixstatic.com/media/3eee0a_9bf0cb74456d457594d3e6b68767446d~mv2.jpg",
+      "originalPath": "/workspace/scratch/d8af6d909b29/research/assets/turkey-market.jpg",
+      "originalDimensions": [
+        3000,
+        1820
+      ],
+      "depicts": "Alanya shore with the historic shipyard walls, hillside and sailboat.",
+      "note": "Quieter hero alternative with open sky and water."
+    },
+    {
+      "key": "turkey-coast",
+      "sourcePage": "https://www.alv-homes.com/",
+      "imageUrl": "https://static.wixstatic.com/media/3eee0a_38c72c7dcd6c46bbb3e154e746b42f34~mv2.jpg",
+      "originalPath": "/workspace/scratch/d8af6d909b29/research/assets/turkey-coast.jpg",
+      "originalDimensions": [
+        3000,
+        2000
+      ],
+      "depicts": "Alanya harbour and Red Tower backed by mountains.",
+      "note": "Turkey market card."
+    },
+    {
+      "key": "bali-coast",
+      "sourcePage": "https://www.alv-homes.com/",
+      "imageUrl": "https://static.wixstatic.com/media/3eee0a_d8f12815a1aa45f8b9090cae97b74b57~mv2.jpg",
+      "originalPath": "/workspace/scratch/d8af6d909b29/research/assets/bali-coast.jpg",
+      "originalDimensions": [
+        5200,
+        3436
+      ],
+      "depicts": "Kelingking Beach cliffs and turquoise water, Nusa Penida, Bali.",
+      "note": "Bali and surrounding islands market card; do not label as mainland Bali property."
+    },
+    {
+      "key": "bali-jimbaran",
+      "sourcePage": "https://www.alv-homes.com/why-bali",
+      "imageUrl": "https://static.wixstatic.com/media/3eee0a_135c30b5b08c47ce97b2f7ea6965e3f0~mv2.jpg",
+      "originalPath": "/workspace/scratch/d8af6d909b29/research/assets/bali-jimbaran.jpg",
+      "originalDimensions": [
+        6000,
+        3375
+      ],
+      "depicts": "Clifftop resort infinity pool and beach in Jimbaran, as labeled by the official site.",
+      "note": "Bali market alternative; destination imagery, not one of the listings."
+    },
+    {
+      "key": "property-165",
+      "sourcePage": "https://www.alv-homes.com/properties/id165",
+      "imageUrl": "https://static.wixstatic.com/media/3eee0a_aa63c97cc2274500a270547da656adcd~mv2.jpg",
+      "originalPath": "/workspace/scratch/d8af6d909b29/research/assets/property-165.jpg",
+      "originalDimensions": [
+        1600,
+        800
+      ],
+      "depicts": "Modern villa front elevation and private outdoor area.",
+      "note": "Architectural visualisation, explicitly labeled on official source. Planned completion end 2026.",
+      "publishedDetails": {
+        "id": 165,
+        "title": "3-Bedroom Villa with Private Pool, Sea Views and Instalment Plan",
+        "type": "Villa",
+        "turkeyAlanyaMahmutlar": "Turkey · Alanya · Kızılcaşehir",
+        "price": "585.000 €",
+        "rooms": 4,
+        "bedrooms": 3,
+        "bathrooms": 3,
+        "size": "200 m²",
+        "yearBuilt": "2026"
+      }
+    },
+    {
+      "key": "property-164",
+      "sourcePage": "https://www.alv-homes.com/properties/id164",
+      "imageUrl": "https://static.wixstatic.com/media/3eee0a_55e1f484150e49b89aeda96f362e0c01~mv2.jpg",
+      "originalPath": "/workspace/scratch/d8af6d909b29/research/assets/property-164.jpg",
+      "originalDimensions": [
+        3968,
+        2976
+      ],
+      "depicts": "Furnished penthouse balcony overlooking Alanya, sea and sunset.",
+      "note": "Photography; matches homepage card.",
+      "publishedDetails": {
+        "id": 164,
+        "title": "Furnished 2+1 Penthouse Duplex with a 180° Panorama of Alanya",
+        "type": "Penthouse",
+        "turkeyAlanyaMahmutlar": "Alanya · Kargicak",
+        "price": "250.000 €",
+        "rooms": 3,
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "size": "147 m²",
+        "yearBuilt": "2019"
+      }
+    },
+    {
+      "key": "property-154",
+      "sourcePage": "https://www.alv-homes.com/properties/id154",
+      "imageUrl": "https://static.wixstatic.com/media/3eee0a_748e1276b9114a8bbb9030684df4bb99~mv2.jpg",
+      "originalPath": "/workspace/scratch/d8af6d909b29/research/assets/property-154.jpg",
+      "originalDimensions": [
+        2591,
+        1456
+      ],
+      "depicts": "White Mediterranean-style Bali apartment development with courtyard swimming pool.",
+      "note": "Architectural render; retain visualisation label. Apartments have 1–2 bedrooms in narrative; bathrooms unspecified.",
+      "publishedDetails": {
+        "id": 154,
+        "title": "Modern Retreat by the Sea in Bali",
+        "type": "Apartment",
+        "turkeyAlanyaMahmutlar": "Indonesia · Bali · Batu Belig",
+        "price": "from 180.000 €",
+        "rooms": null,
+        "bedrooms": null,
+        "bathrooms": null,
+        "size": "from 82 m²",
+        "yearBuilt": "2026"
+      }
+    },
+    {
+      "key": "property-2",
+      "sourcePage": "https://www.alv-homes.com/properties/id2",
+      "imageUrl": "https://static.wixstatic.com/media/3eee0a_19b13bcb0f4a4d538bf69c191e79dca8~mv2.jpg",
+      "originalPath": "/workspace/scratch/d8af6d909b29/research/assets/property-2.jpg",
+      "originalDimensions": [
+        6996,
+        4664
+      ],
+      "depicts": "Seafront infinity pool at sunset at the Kargicak apartment development.",
+      "note": "Photography of shared amenity; logo watermark included in original.",
+      "publishedDetails": {
+        "id": 2,
+        "title": "Stylish 2+1 Apartment in First Row with Sea View, Designer Interior & Investment Potential – Boutique Coastal Living at its Finest (2025)",
+        "type": "Apartment",
+        "turkeyAlanyaMahmutlar": "Turkey · Alanya · Kargicak",
+        "price": "250.000 €",
+        "rooms": 3,
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "size": "95 m²",
+        "yearBuilt": "2025"
+      }
+    },
+    {
+      "key": "property-152",
+      "sourcePage": "https://www.alv-homes.com/properties/id152",
+      "imageUrl": "https://static.wixstatic.com/media/3eee0a_9320fc11bfa54670b7161ec8b907033e~mv2.jpg",
+      "originalPath": "/workspace/scratch/d8af6d909b29/research/assets/property-152.jpg",
+      "originalDimensions": [
+        4032,
+        3024
+      ],
+      "depicts": "Contemporary hillside villa, terrace loungers, glazing and infinity pool.",
+      "note": "Photography, prominent ALV watermark. Bedroom inconsistency: details table says 3 bedrooms, narrative says 4+1. Use price/size only until clarified.",
+      "publishedDetails": {
+        "id": 152,
+        "title": "Alanya’s Most Exclusive Hillside Villa",
+        "type": "Villa",
+        "turkeyAlanyaMahmutlar": "Turkey · Alanya · Bektaş",
+        "price": "3.750.000 € ",
+        "rooms": 4,
+        "bedrooms": 3,
+        "bathrooms": 4,
+        "size": "660 m²",
+        "yearBuilt": "2025"
+      }
+    },
+    {
+      "key": "property-158",
+      "sourcePage": "https://www.alv-homes.com/properties/id158",
+      "imageUrl": "https://static.wixstatic.com/media/3eee0a_c17c1a507a9346e19c0baac3f855ccc3~mv2.jpg",
+      "originalPath": "/workspace/scratch/d8af6d909b29/research/assets/property-158.jpg",
+      "originalDimensions": [
+        3024,
+        4032
+      ],
+      "depicts": "Stone and white villa facade with a curved wooden soffit.",
+      "note": "Portrait composition; alternate only. Not separately checked beyond current homepage data.",
+      "publishedDetails": {
+        "id": 158,
+        "title": "Luxury Stone Villa in Kargıcak – Private Pool + Timeless Design + Citizenship",
+        "type": "Villa",
+        "turkeyAlanyaMahmutlar": "Turkey · Alanya · Kargicak",
+        "price": "600.000 €",
+        "rooms": 5,
+        "bedrooms": 4,
+        "bathrooms": 4,
+        "size": " 290 m²",
+        "yearBuilt": "2026"
+      }
+    }
+  ]
+}

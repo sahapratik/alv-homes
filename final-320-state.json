@@ -1,0 +1,71 @@
+{
+  "width": 320,
+  "height": 740,
+  "overflow": 0,
+  "scrollY": 0,
+  "scrollHeight": 8220,
+  "canvas": 0,
+  "webgl": "static-mobile",
+  "intro": "complete",
+  "heading": "Privacy.Precision.Performance.",
+  "active": "01",
+  "pins": 0,
+  "logo": [
+    {
+      "x": 18,
+      "y": 5.5,
+      "width": 94,
+      "height": 70,
+      "bottom": 75.5
+    },
+    {
+      "x": 24,
+      "y": 7398.3125,
+      "width": 112,
+      "height": 84,
+      "bottom": 7482.3125
+    }
+  ],
+  "gallery": {
+    "x": 0,
+    "y": 1465.53125,
+    "width": 305,
+    "height": 1016.03125,
+    "bottom": 2481.5625
+  },
+  "cards": [
+    {
+      "x": 24,
+      "y": 1867.625,
+      "width": 255,
+      "height": 481.953125,
+      "bottom": 2349.578125
+    },
+    {
+      "x": 301,
+      "y": 1867.625,
+      "width": 255,
+      "height": 481.953125,
+      "bottom": 2349.578125
+    },
+    {
+      "x": 578,
+      "y": 1867.625,
+      "width": 255,
+      "height": 481.953125,
+      "bottom": 2349.578125
+    },
+    {
+      "x": 855,
+      "y": 1867.625,
+      "width": 255,
+      "height": 481.953125,
+      "bottom": 2349.578125
+    }
+  ],
+  "images": [],
+  "metrics": {
+    "lcp": 3040,
+    "marks": []
+  }
+}

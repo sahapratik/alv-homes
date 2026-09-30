@@ -1,0 +1,82 @@
+[
+  {
+    "file": "assets/alv-logo.jpg",
+    "raw_bytes": 8829,
+    "gzip_bytes": 8290
+  },
+  {
+    "file": "assets/bali.webp",
+    "raw_bytes": 224028,
+    "gzip_bytes": 224116
+  },
+  {
+    "file": "assets/cormorant-italic.woff2",
+    "raw_bytes": 24672,
+    "gzip_bytes": 24700
+  },
+  {
+    "file": "assets/cormorant.woff2",
+    "raw_bytes": 23592,
+    "gzip_bytes": 23620
+  },
+  {
+    "file": "assets/hero-small.webp",
+    "raw_bytes": 47298,
+    "gzip_bytes": 47331
+  },
+  {
+    "file": "assets/hero.webp",
+    "raw_bytes": 206504,
+    "gzip_bytes": 206587
+  },
+  {
+    "file": "assets/index-Bdb9yA4Q.js",
+    "raw_bytes": 147055,
+    "gzip_bytes": 56363
+  },
+  {
+    "file": "assets/jost.woff2",
+    "raw_bytes": 11424,
+    "gzip_bytes": 11447
+  },
+  {
+    "file": "assets/property-154.webp",
+    "raw_bytes": 76950,
+    "gzip_bytes": 76993
+  },
+  {
+    "file": "assets/property-164.webp",
+    "raw_bytes": 136254,
+    "gzip_bytes": 136317
+  },
+  {
+    "file": "assets/property-165.webp",
+    "raw_bytes": 88970,
+    "gzip_bytes": 89018
+  },
+  {
+    "file": "assets/property-2.webp",
+    "raw_bytes": 90152,
+    "gzip_bytes": 90200
+  },
+  {
+    "file": "assets/threshold-BLUHuFuu.js",
+    "raw_bytes": 476974,
+    "gzip_bytes": 119059
+  },
+  {
+    "file": "assets/turkey.webp",
+    "raw_bytes": 291912,
+    "gzip_bytes": 292020
+  },
+  {
+    "file": "index.html",
+    "raw_bytes": 42265,
+    "gzip_bytes": 11337
+  },
+  {
+    "file": "style.css",
+    "raw_bytes": 32503,
+    "gzip_bytes": 7850
+  }
+]

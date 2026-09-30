@@ -1,0 +1,85 @@
+{
+  "width": 390,
+  "height": 844,
+  "overflow": 0,
+  "scrollY": 6864,
+  "scrollHeight": 7708,
+  "canvas": 0,
+  "webgl": "static-mobile",
+  "intro": "complete",
+  "heading": "Privacy.Precision.Performance.",
+  "active": "01",
+  "pins": 0,
+  "logo": [
+    {
+      "x": 22,
+      "y": 1.5,
+      "width": 104,
+      "height": 78,
+      "bottom": 79.5
+    },
+    {
+      "x": 24,
+      "y": 169.359375,
+      "width": 112,
+      "height": 84,
+      "bottom": 253.359375
+    }
+  ],
+  "gallery": {
+    "x": 0,
+    "y": -5324.875,
+    "width": 375,
+    "height": 891.6875,
+    "bottom": -4433.1875
+  },
+  "cards": [
+    {
+      "x": 24,
+      "y": -5014.28125,
+      "width": 325,
+      "height": 481.953125,
+      "bottom": -4532.328125
+    },
+    {
+      "x": 371,
+      "y": -5014.28125,
+      "width": 325,
+      "height": 481.953125,
+      "bottom": -4532.328125
+    },
+    {
+      "x": 718,
+      "y": -5014.28125,
+      "width": 325,
+      "height": 481.953125,
+      "bottom": -4532.328125
+    },
+    {
+      "x": 1065,
+      "y": -5014.28125,
+      "width": 325,
+      "height": 481.953125,
+      "bottom": -4532.328125
+    }
+  ],
+  "images": [],
+  "metrics": {
+    "shifts": [
+      {
+        "time": 60.59999999997672,
+        "value": 0.0025644176343747895,
+        "nodes": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      }
+    ],
+    "cls": 0.0025644176343747895,
+    "lcp": 80,
+    "marks": []
+  }
+}

@@ -1,0 +1,3 @@
+GSAP 3.13.0 by GreenSock. Copyright (c) 2008–2025 GreenSock. All rights reserved.
+Distributed under the Standard License: https://gsap.com/standard-license/
+The package README links to that license. This file records the source; it does not replace or modify its terms.

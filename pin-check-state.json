@@ -1,0 +1,101 @@
+{
+  "width": 1440,
+  "height": 900,
+  "overflow": 0,
+  "scrollY": 7391,
+  "scrollHeight": 8291,
+  "canvas": 0,
+  "webgl": "fallback",
+  "intro": "complete",
+  "heading": "Privacy.Precision.Performance.",
+  "active": "04",
+  "pins": 1,
+  "logo": [
+    {
+      "x": 72,
+      "y": 1.5,
+      "width": 104,
+      "height": 78,
+      "bottom": 79.5
+    },
+    {
+      "x": 72,
+      "y": 410.59375,
+      "width": 148,
+      "height": 111,
+      "bottom": 521.59375
+    }
+  ],
+  "gallery": {
+    "x": 0,
+    "y": -4518.21875,
+    "width": 1425,
+    "height": 778.625,
+    "bottom": -3739.59375
+  },
+  "cards": [
+    {
+      "x": -1271,
+      "y": -4304.671875,
+      "width": 633.59375,
+      "height": 477.640625,
+      "bottom": -3827.03125
+    },
+    {
+      "x": -607.40625,
+      "y": -4304.671875,
+      "width": 633.59375,
+      "height": 477.640625,
+      "bottom": -3827.03125
+    },
+    {
+      "x": 56.1875,
+      "y": -4304.671875,
+      "width": 633.59375,
+      "height": 477.640625,
+      "bottom": -3827.03125
+    },
+    {
+      "x": 719.78125,
+      "y": -4304.671875,
+      "width": 633.59375,
+      "height": 477.640625,
+      "bottom": -3827.03125
+    }
+  ],
+  "images": [],
+  "metrics": {
+    "shifts": [
+      {
+        "time": 115.69999999995343,
+        "value": 0.0004749032437331145,
+        "nodes": [
+          "",
+          "hero-caption",
+          "header-inquiry",
+          null,
+          null
+        ]
+      },
+      {
+        "time": 2118,
+        "value": 0.00006648199445983379,
+        "nodes": [
+          "brand"
+        ]
+      }
+    ],
+    "cls": 0.0005413852381929484,
+    "lcp": 172,
+    "marks": [
+      {
+        "name": "alv-intro-request",
+        "time": 139.79999999993015
+      },
+      {
+        "name": "alv-intro-complete",
+        "time": 140.09999999997672
+      }
+    ]
+  }
+}

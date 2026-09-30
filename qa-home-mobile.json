@@ -1,0 +1,946 @@
+[
+  {
+    "width": 390,
+    "height": 844,
+    "overflow": 0,
+    "scrollY": 0,
+    "scrollHeight": 7708,
+    "canvas": 0,
+    "webgl": "static-mobile",
+    "intro": "complete",
+    "heading": "Privacy.Precision.Performance.",
+    "active": "01",
+    "pins": 0,
+    "logo": [
+      {
+        "x": 22,
+        "y": 1.5,
+        "width": 104,
+        "height": 78,
+        "bottom": 79.5
+      },
+      {
+        "x": 24,
+        "y": 7033.359375,
+        "width": 112,
+        "height": 84,
+        "bottom": 7117.359375
+      }
+    ],
+    "gallery": {
+      "x": 0,
+      "y": 1539.125,
+      "width": 375,
+      "height": 891.6875,
+      "bottom": 2430.8125
+    },
+    "cards": [
+      {
+        "x": 24,
+        "y": 1849.71875,
+        "width": 325,
+        "height": 481.953125,
+        "bottom": 2331.671875
+      },
+      {
+        "x": 371,
+        "y": 1849.71875,
+        "width": 325,
+        "height": 481.953125,
+        "bottom": 2331.671875
+      },
+      {
+        "x": 718,
+        "y": 1849.71875,
+        "width": 325,
+        "height": 481.953125,
+        "bottom": 2331.671875
+      },
+      {
+        "x": 1065,
+        "y": 1849.71875,
+        "width": 325,
+        "height": 481.953125,
+        "bottom": 2331.671875
+      }
+    ],
+    "images": [],
+    "metrics": {
+      "shifts": [
+        {
+          "time": 71.90000000037253,
+          "value": 0.0020835456550733563,
+          "nodes": [
+            null,
+            "",
+            "hero-caption",
+            "header-inquiry",
+            null
+          ]
+        },
+        {
+          "time": 44144.10000000009,
+          "value": 0.7653586097946288,
+          "nodes": [
+            "static-aperture",
+            "",
+            "",
+            "",
+            "hero-sub"
+          ]
+        },
+        {
+          "time": 45106.30000000028,
+          "value": 0.0004475045250181562,
+          "nodes": [
+            "brand",
+            "header-inquiry",
+            "menu"
+          ]
+        }
+      ],
+      "cls": 0.7678896599747204,
+      "longTasks": [
+        {
+          "start": 82.20000000018626,
+          "duration": 60
+        },
+        {
+          "start": 44877.80000000028,
+          "duration": 64
+        },
+        {
+          "start": 45136.60000000009,
+          "duration": 53
+        }
+      ],
+      "lcp": 144
+    }
+  },
+  {
+    "width": 390,
+    "height": 844,
+    "overflow": 0,
+    "scrollY": 762,
+    "scrollHeight": 7708,
+    "canvas": 0,
+    "webgl": "static-mobile",
+    "intro": "complete",
+    "heading": "Privacy.Precision.Performance.",
+    "active": "01",
+    "pins": 0,
+    "logo": [
+      {
+        "x": 22,
+        "y": 1.5,
+        "width": 104,
+        "height": 78,
+        "bottom": 79.5
+      },
+      {
+        "x": 24,
+        "y": 6271.359375,
+        "width": 112,
+        "height": 84,
+        "bottom": 6355.359375
+      }
+    ],
+    "gallery": {
+      "x": 0,
+      "y": 777.125,
+      "width": 375,
+      "height": 891.6875,
+      "bottom": 1668.8125
+    },
+    "cards": [
+      {
+        "x": 24,
+        "y": 1087.71875,
+        "width": 325,
+        "height": 481.953125,
+        "bottom": 1569.671875
+      },
+      {
+        "x": 371,
+        "y": 1087.71875,
+        "width": 325,
+        "height": 481.953125,
+        "bottom": 1569.671875
+      },
+      {
+        "x": 718,
+        "y": 1087.71875,
+        "width": 325,
+        "height": 481.953125,
+        "bottom": 1569.671875
+      },
+      {
+        "x": 1065,
+        "y": 1087.71875,
+        "width": 325,
+        "height": 481.953125,
+        "bottom": 1569.671875
+      }
+    ],
+    "images": [],
+    "metrics": {
+      "shifts": [
+        {
+          "time": 71.90000000037253,
+          "value": 0.0020835456550733563,
+          "nodes": [
+            null,
+            "",
+            "hero-caption",
+            "header-inquiry",
+            null
+          ]
+        },
+        {
+          "time": 44144.10000000009,
+          "value": 0.7653586097946288,
+          "nodes": [
+            "static-aperture",
+            "",
+            "",
+            "",
+            "hero-sub"
+          ]
+        },
+        {
+          "time": 45106.30000000028,
+          "value": 0.0004475045250181562,
+          "nodes": [
+            "brand",
+            "header-inquiry",
+            "menu"
+          ]
+        }
+      ],
+      "cls": 0.7678896599747204,
+      "longTasks": [
+        {
+          "start": 82.20000000018626,
+          "duration": 60
+        },
+        {
+          "start": 44877.80000000028,
+          "duration": 64
+        },
+        {
+          "start": 45136.60000000009,
+          "duration": 53
+        }
+      ],
+      "lcp": 144
+    }
+  },
+  {
+    "width": 390,
+    "height": 844,
+    "overflow": 0,
+    "scrollY": 1457,
+    "scrollHeight": 7708,
+    "canvas": 0,
+    "webgl": "static-mobile",
+    "intro": "complete",
+    "heading": "Privacy.Precision.Performance.",
+    "active": "01",
+    "pins": 0,
+    "logo": [
+      {
+        "x": 22,
+        "y": 1.5,
+        "width": 104,
+        "height": 78,
+        "bottom": 79.5
+      },
+      {
+        "x": 24,
+        "y": 5576.359375,
+        "width": 112,
+        "height": 84,
+        "bottom": 5660.359375
+      }
+    ],
+    "gallery": {
+      "x": 0,
+      "y": 82.125,
+      "width": 375,
+      "height": 891.6875,
+      "bottom": 973.8125
+    },
+    "cards": [
+      {
+        "x": 24,
+        "y": 392.71875,
+        "width": 325,
+        "height": 481.953125,
+        "bottom": 874.671875
+      },
+      {
+        "x": 371,
+        "y": 392.71875,
+        "width": 325,
+        "height": 481.953125,
+        "bottom": 874.671875
+      },
+      {
+        "x": 718,
+        "y": 392.71875,
+        "width": 325,
+        "height": 481.953125,
+        "bottom": 874.671875
+      },
+      {
+        "x": 1065,
+        "y": 392.71875,
+        "width": 325,
+        "height": 481.953125,
+        "bottom": 874.671875
+      }
+    ],
+    "images": [],
+    "metrics": {
+      "shifts": [
+        {
+          "time": 71.90000000037253,
+          "value": 0.0020835456550733563,
+          "nodes": [
+            null,
+            "",
+            "hero-caption",
+            "header-inquiry",
+            null
+          ]
+        },
+        {
+          "time": 44144.10000000009,
+          "value": 0.7653586097946288,
+          "nodes": [
+            "static-aperture",
+            "",
+            "",
+            "",
+            "hero-sub"
+          ]
+        },
+        {
+          "time": 45106.30000000028,
+          "value": 0.0004475045250181562,
+          "nodes": [
+            "brand",
+            "header-inquiry",
+            "menu"
+          ]
+        }
+      ],
+      "cls": 0.7678896599747204,
+      "longTasks": [
+        {
+          "start": 82.20000000018626,
+          "duration": 60
+        },
+        {
+          "start": 44877.80000000028,
+          "duration": 64
+        },
+        {
+          "start": 45136.60000000009,
+          "duration": 53
+        }
+      ],
+      "lcp": 144
+    }
+  },
+  {
+    "width": 390,
+    "height": 844,
+    "overflow": 0,
+    "scrollY": 2349,
+    "scrollHeight": 7708,
+    "canvas": 0,
+    "webgl": "static-mobile",
+    "intro": "complete",
+    "heading": "Privacy.Precision.Performance.",
+    "active": "01",
+    "pins": 0,
+    "logo": [
+      {
+        "x": 22,
+        "y": 1.5,
+        "width": 104,
+        "height": 78,
+        "bottom": 79.5
+      },
+      {
+        "x": 24,
+        "y": 4684.359375,
+        "width": 112,
+        "height": 84,
+        "bottom": 4768.359375
+      }
+    ],
+    "gallery": {
+      "x": 0,
+      "y": -809.875,
+      "width": 375,
+      "height": 891.6875,
+      "bottom": 81.8125
+    },
+    "cards": [
+      {
+        "x": 24,
+        "y": -499.28125,
+        "width": 325,
+        "height": 481.953125,
+        "bottom": -17.328125
+      },
+      {
+        "x": 371,
+        "y": -499.28125,
+        "width": 325,
+        "height": 481.953125,
+        "bottom": -17.328125
+      },
+      {
+        "x": 718,
+        "y": -499.28125,
+        "width": 325,
+        "height": 481.953125,
+        "bottom": -17.328125
+      },
+      {
+        "x": 1065,
+        "y": -499.28125,
+        "width": 325,
+        "height": 481.953125,
+        "bottom": -17.328125
+      }
+    ],
+    "images": [],
+    "metrics": {
+      "shifts": [
+        {
+          "time": 71.90000000037253,
+          "value": 0.0020835456550733563,
+          "nodes": [
+            null,
+            "",
+            "hero-caption",
+            "header-inquiry",
+            null
+          ]
+        },
+        {
+          "time": 44144.10000000009,
+          "value": 0.7653586097946288,
+          "nodes": [
+            "static-aperture",
+            "",
+            "",
+            "",
+            "hero-sub"
+          ]
+        },
+        {
+          "time": 45106.30000000028,
+          "value": 0.0004475045250181562,
+          "nodes": [
+            "brand",
+            "header-inquiry",
+            "menu"
+          ]
+        }
+      ],
+      "cls": 0.7678896599747204,
+      "longTasks": [
+        {
+          "start": 82.20000000018626,
+          "duration": 60
+        },
+        {
+          "start": 44877.80000000028,
+          "duration": 64
+        },
+        {
+          "start": 45136.60000000009,
+          "duration": 53
+        }
+      ],
+      "lcp": 144
+    }
+  },
+  {
+    "width": 390,
+    "height": 844,
+    "overflow": 0,
+    "scrollY": 3194,
+    "scrollHeight": 7708,
+    "canvas": 0,
+    "webgl": "static-mobile",
+    "intro": "complete",
+    "heading": "Privacy.Precision.Performance.",
+    "active": "01",
+    "pins": 0,
+    "logo": [
+      {
+        "x": 22,
+        "y": 1.5,
+        "width": 104,
+        "height": 78,
+        "bottom": 79.5
+      },
+      {
+        "x": 24,
+        "y": 3839.359375,
+        "width": 112,
+        "height": 84,
+        "bottom": 3923.359375
+      }
+    ],
+    "gallery": {
+      "x": 0,
+      "y": -1654.875,
+      "width": 375,
+      "height": 891.6875,
+      "bottom": -763.1875
+    },
+    "cards": [
+      {
+        "x": 24,
+        "y": -1344.28125,
+        "width": 325,
+        "height": 481.953125,
+        "bottom": -862.328125
+      },
+      {
+        "x": 371,
+        "y": -1344.28125,
+        "width": 325,
+        "height": 481.953125,
+        "bottom": -862.328125
+      },
+      {
+        "x": 718,
+        "y": -1344.28125,
+        "width": 325,
+        "height": 481.953125,
+        "bottom": -862.328125
+      },
+      {
+        "x": 1065,
+        "y": -1344.28125,
+        "width": 325,
+        "height": 481.953125,
+        "bottom": -862.328125
+      }
+    ],
+    "images": [],
+    "metrics": {
+      "shifts": [
+        {
+          "time": 71.90000000037253,
+          "value": 0.0020835456550733563,
+          "nodes": [
+            null,
+            "",
+            "hero-caption",
+            "header-inquiry",
+            null
+          ]
+        },
+        {
+          "time": 44144.10000000009,
+          "value": 0.7653586097946288,
+          "nodes": [
+            "static-aperture",
+            "",
+            "",
+            "",
+            "hero-sub"
+          ]
+        },
+        {
+          "time": 45106.30000000028,
+          "value": 0.0004475045250181562,
+          "nodes": [
+            "brand",
+            "header-inquiry",
+            "menu"
+          ]
+        }
+      ],
+      "cls": 0.7678896599747204,
+      "longTasks": [
+        {
+          "start": 82.20000000018626,
+          "duration": 60
+        },
+        {
+          "start": 44877.80000000028,
+          "duration": 64
+        },
+        {
+          "start": 45136.60000000009,
+          "duration": 53
+        }
+      ],
+      "lcp": 144
+    }
+  },
+  {
+    "width": 390,
+    "height": 844,
+    "overflow": 0,
+    "scrollY": 4679,
+    "scrollHeight": 7708,
+    "canvas": 0,
+    "webgl": "static-mobile",
+    "intro": "complete",
+    "heading": "Privacy.Precision.Performance.",
+    "active": "01",
+    "pins": 0,
+    "logo": [
+      {
+        "x": 22,
+        "y": 1.5,
+        "width": 104,
+        "height": 78,
+        "bottom": 79.5
+      },
+      {
+        "x": 24,
+        "y": 2354.359375,
+        "width": 112,
+        "height": 84,
+        "bottom": 2438.359375
+      }
+    ],
+    "gallery": {
+      "x": 0,
+      "y": -3139.875,
+      "width": 375,
+      "height": 891.6875,
+      "bottom": -2248.1875
+    },
+    "cards": [
+      {
+        "x": 24,
+        "y": -2829.28125,
+        "width": 325,
+        "height": 481.953125,
+        "bottom": -2347.328125
+      },
+      {
+        "x": 371,
+        "y": -2829.28125,
+        "width": 325,
+        "height": 481.953125,
+        "bottom": -2347.328125
+      },
+      {
+        "x": 718,
+        "y": -2829.28125,
+        "width": 325,
+        "height": 481.953125,
+        "bottom": -2347.328125
+      },
+      {
+        "x": 1065,
+        "y": -2829.28125,
+        "width": 325,
+        "height": 481.953125,
+        "bottom": -2347.328125
+      }
+    ],
+    "images": [],
+    "metrics": {
+      "shifts": [
+        {
+          "time": 71.90000000037253,
+          "value": 0.0020835456550733563,
+          "nodes": [
+            null,
+            "",
+            "hero-caption",
+            "header-inquiry",
+            null
+          ]
+        },
+        {
+          "time": 44144.10000000009,
+          "value": 0.7653586097946288,
+          "nodes": [
+            "static-aperture",
+            "",
+            "",
+            "",
+            "hero-sub"
+          ]
+        },
+        {
+          "time": 45106.30000000028,
+          "value": 0.0004475045250181562,
+          "nodes": [
+            "brand",
+            "header-inquiry",
+            "menu"
+          ]
+        }
+      ],
+      "cls": 0.7678896599747204,
+      "longTasks": [
+        {
+          "start": 82.20000000018626,
+          "duration": 60
+        },
+        {
+          "start": 44877.80000000028,
+          "duration": 64
+        },
+        {
+          "start": 45136.60000000009,
+          "duration": 53
+        }
+      ],
+      "lcp": 144
+    }
+  },
+  {
+    "width": 390,
+    "height": 844,
+    "overflow": 0,
+    "scrollY": 5669,
+    "scrollHeight": 7708,
+    "canvas": 0,
+    "webgl": "static-mobile",
+    "intro": "complete",
+    "heading": "Privacy.Precision.Performance.",
+    "active": "01",
+    "pins": 0,
+    "logo": [
+      {
+        "x": 22,
+        "y": 1.5,
+        "width": 104,
+        "height": 78,
+        "bottom": 79.5
+      },
+      {
+        "x": 24,
+        "y": 1364.359375,
+        "width": 112,
+        "height": 84,
+        "bottom": 1448.359375
+      }
+    ],
+    "gallery": {
+      "x": 0,
+      "y": -4129.875,
+      "width": 375,
+      "height": 891.6875,
+      "bottom": -3238.1875
+    },
+    "cards": [
+      {
+        "x": 24,
+        "y": -3819.28125,
+        "width": 325,
+        "height": 481.953125,
+        "bottom": -3337.328125
+      },
+      {
+        "x": 371,
+        "y": -3819.28125,
+        "width": 325,
+        "height": 481.953125,
+        "bottom": -3337.328125
+      },
+      {
+        "x": 718,
+        "y": -3819.28125,
+        "width": 325,
+        "height": 481.953125,
+        "bottom": -3337.328125
+      },
+      {
+        "x": 1065,
+        "y": -3819.28125,
+        "width": 325,
+        "height": 481.953125,
+        "bottom": -3337.328125
+      }
+    ],
+    "images": [],
+    "metrics": {
+      "shifts": [
+        {
+          "time": 71.90000000037253,
+          "value": 0.0020835456550733563,
+          "nodes": [
+            null,
+            "",
+            "hero-caption",
+            "header-inquiry",
+            null
+          ]
+        },
+        {
+          "time": 44144.10000000009,
+          "value": 0.7653586097946288,
+          "nodes": [
+            "static-aperture",
+            "",
+            "",
+            "",
+            "hero-sub"
+          ]
+        },
+        {
+          "time": 45106.30000000028,
+          "value": 0.0004475045250181562,
+          "nodes": [
+            "brand",
+            "header-inquiry",
+            "menu"
+          ]
+        }
+      ],
+      "cls": 0.7678896599747204,
+      "longTasks": [
+        {
+          "start": 82.20000000018626,
+          "duration": 60
+        },
+        {
+          "start": 44877.80000000028,
+          "duration": 64
+        },
+        {
+          "start": 45136.60000000009,
+          "duration": 53
+        }
+      ],
+      "lcp": 144
+    }
+  },
+  {
+    "width": 390,
+    "height": 844,
+    "overflow": 0,
+    "scrollY": 6313,
+    "scrollHeight": 7708,
+    "canvas": 0,
+    "webgl": "static-mobile",
+    "intro": "complete",
+    "heading": "Privacy.Precision.Performance.",
+    "active": "01",
+    "pins": 0,
+    "logo": [
+      {
+        "x": 22,
+        "y": 1.5,
+        "width": 104,
+        "height": 78,
+        "bottom": 79.5
+      },
+      {
+        "x": 24,
+        "y": 720.359375,
+        "width": 112,
+        "height": 84,
+        "bottom": 804.359375
+      }
+    ],
+    "gallery": {
+      "x": 0,
+      "y": -4773.875,
+      "width": 375,
+      "height": 891.6875,
+      "bottom": -3882.1875
+    },
+    "cards": [
+      {
+        "x": 24,
+        "y": -4463.28125,
+        "width": 325,
+        "height": 481.953125,
+        "bottom": -3981.328125
+      },
+      {
+        "x": 371,
+        "y": -4463.28125,
+        "width": 325,
+        "height": 481.953125,
+        "bottom": -3981.328125
+      },
+      {
+        "x": 718,
+        "y": -4463.28125,
+        "width": 325,
+        "height": 481.953125,
+        "bottom": -3981.328125
+      },
+      {
+        "x": 1065,
+        "y": -4463.28125,
+        "width": 325,
+        "height": 481.953125,
+        "bottom": -3981.328125
+      }
+    ],
+    "images": [],
+    "metrics": {
+      "shifts": [
+        {
+          "time": 71.90000000037253,
+          "value": 0.0020835456550733563,
+          "nodes": [
+            null,
+            "",
+            "hero-caption",
+            "header-inquiry",
+            null
+          ]
+        },
+        {
+          "time": 44144.10000000009,
+          "value": 0.7653586097946288,
+          "nodes": [
+            "static-aperture",
+            "",
+            "",
+            "",
+            "hero-sub"
+          ]
+        },
+        {
+          "time": 45106.30000000028,
+          "value": 0.0004475045250181562,
+          "nodes": [
+            "brand",
+            "header-inquiry",
+            "menu"
+          ]
+        }
+      ],
+      "cls": 0.7678896599747204,
+      "longTasks": [
+        {
+          "start": 82.20000000018626,
+          "duration": 60
+        },
+        {
+          "start": 44877.80000000028,
+          "duration": 64
+        },
+        {
+          "start": 45136.60000000009,
+          "duration": 53
+        }
+      ],
+      "lcp": 144
+    }
+  }
+]

@@ -1,0 +1,111 @@
+{
+  "width": 1280,
+  "height": 820,
+  "overflow": 0,
+  "scrollY": 374,
+  "scrollHeight": 7942,
+  "canvas": 0,
+  "webgl": "fallback",
+  "intro": "complete",
+  "heading": "Privacy.Precision.Performance.",
+  "active": "01",
+  "pins": 1,
+  "logo": [
+    {
+      "x": 64,
+      "y": 1.5,
+      "width": 104,
+      "height": 78,
+      "bottom": 79.5
+    },
+    {
+      "x": 64,
+      "y": 7079.15625,
+      "width": 148,
+      "height": 111,
+      "bottom": 7190.15625
+    }
+  ],
+  "gallery": {
+    "x": 0,
+    "y": 1060.28125,
+    "width": 1265,
+    "height": 698.625,
+    "bottom": 1758.90625
+  },
+  "cards": [
+    {
+      "x": 64,
+      "y": 1273.828125,
+      "width": 563.1875,
+      "height": 397.640625,
+      "bottom": 1671.46875
+    },
+    {
+      "x": 657.1875,
+      "y": 1273.828125,
+      "width": 563.1875,
+      "height": 397.640625,
+      "bottom": 1671.46875
+    },
+    {
+      "x": 1250.375,
+      "y": 1273.828125,
+      "width": 563.1875,
+      "height": 397.640625,
+      "bottom": 1671.46875
+    },
+    {
+      "x": 1843.5625,
+      "y": 1273.828125,
+      "width": 563.1875,
+      "height": 397.640625,
+      "bottom": 1671.46875
+    }
+  ],
+  "images": [],
+  "metrics": {
+    "shifts": [
+      {
+        "time": 66.79999999981374,
+        "value": 0.0026790925028073414,
+        "nodes": [
+          null,
+          "",
+          "hero-caption",
+          "header-inquiry",
+          null
+        ]
+      },
+      {
+        "time": 10792.100000000093,
+        "value": 0.00009259368632993303,
+        "nodes": [
+          "brand"
+        ]
+      }
+    ],
+    "cls": 0.0027716861891372746,
+    "lcp": 3148,
+    "frames": {
+      "count": 162,
+      "median": 16.69999999999891,
+      "p95": 33.29999999999927,
+      "over50": 3
+    },
+    "marks": [
+      {
+        "name": "alv-intro-request",
+        "time": 122.29999999981374
+      },
+      {
+        "name": "alv-hero-ready",
+        "time": 172.89999999990687
+      },
+      {
+        "name": "alv-intro-complete",
+        "time": 3354.5
+      }
+    ]
+  }
+}

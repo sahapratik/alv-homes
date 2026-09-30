@@ -1,0 +1,1724 @@
+[
+  {
+    "width": 390,
+    "height": 844,
+    "overflow": 0,
+    "scrollY": 0,
+    "scrollHeight": 7708,
+    "canvas": 0,
+    "webgl": "static-mobile",
+    "intro": "complete",
+    "heading": "Privacy.Precision.Performance.",
+    "active": "01",
+    "pins": 0,
+    "logo": [
+      {
+        "x": 22,
+        "y": 8.5,
+        "width": 86,
+        "height": 64,
+        "bottom": 72.5
+      },
+      {
+        "x": 24,
+        "y": 7033.359375,
+        "width": 112,
+        "height": 84,
+        "bottom": 7117.359375
+      }
+    ],
+    "gallery": {
+      "x": 0,
+      "y": 1539.125,
+      "width": 375,
+      "height": 891.6875,
+      "bottom": 2430.8125
+    },
+    "cards": [
+      {
+        "x": 24,
+        "y": 1849.71875,
+        "width": 325,
+        "height": 481.953125,
+        "bottom": 2331.671875
+      },
+      {
+        "x": 371,
+        "y": 1849.71875,
+        "width": 325,
+        "height": 481.953125,
+        "bottom": 2331.671875
+      },
+      {
+        "x": 718,
+        "y": 1849.71875,
+        "width": 325,
+        "height": 481.953125,
+        "bottom": 2331.671875
+      },
+      {
+        "x": 1065,
+        "y": 1849.71875,
+        "width": 325,
+        "height": 481.953125,
+        "bottom": 2331.671875
+      }
+    ],
+    "images": [],
+    "metrics": {
+      "shifts": [
+        {
+          "time": 123.20000000018626,
+          "value": 0.0004749032437331145,
+          "nodes": [
+            "",
+            "hero-caption",
+            "header-inquiry",
+            null,
+            null
+          ]
+        },
+        {
+          "time": 2771.7000000001863,
+          "value": 0.0000384118190212373,
+          "nodes": [
+            "brand"
+          ]
+        },
+        {
+          "time": 10996,
+          "value": 0.23226205219110352,
+          "nodes": [
+            "contact-layout",
+            "",
+            "",
+            "",
+            "eyebrow"
+          ]
+        },
+        {
+          "time": 11238.399999999907,
+          "value": 0.0000414996449201979,
+          "nodes": [
+            "brand-logo"
+          ]
+        },
+        {
+          "time": 13370.5,
+          "value": 0.0000414996449201979,
+          "nodes": [
+            "brand"
+          ]
+        },
+        {
+          "time": 21155.899999999907,
+          "value": 0.48503561308026155,
+          "nodes": [
+            "contact-layout",
+            "contact-form",
+            "",
+            "",
+            "eyebrow"
+          ]
+        },
+        {
+          "time": 44920.200000000186,
+          "value": 0.29317389265739763,
+          "nodes": [
+            "contact-layout",
+            "",
+            "",
+            "eyebrow",
+            "brand"
+          ]
+        }
+      ],
+      "cls": 1.0110678722813575,
+      "lcp": 476,
+      "longTasks": [
+        {
+          "start": 2721.7000000001863,
+          "duration": 53
+        }
+      ]
+    }
+  },
+  {
+    "width": 390,
+    "height": 844,
+    "overflow": 0,
+    "scrollY": 0,
+    "scrollHeight": 3288,
+    "canvas": 0,
+    "webgl": "static-mobile",
+    "intro": "complete",
+    "heading": "Find your perspective.",
+    "active": "01",
+    "pins": 0,
+    "logo": [
+      {
+        "x": 22,
+        "y": 8.5,
+        "width": 86,
+        "height": 64,
+        "bottom": 72.5
+      },
+      {
+        "x": 24,
+        "y": 2613.359375,
+        "width": 112,
+        "height": 84,
+        "bottom": 2697.359375
+      }
+    ],
+    "gallery": null,
+    "cards": [
+      {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "bottom": 0
+      },
+      {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "bottom": 0
+      },
+      {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "bottom": 0
+      },
+      {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "bottom": 0
+      }
+    ],
+    "images": [],
+    "metrics": {
+      "shifts": [
+        {
+          "time": 123.20000000018626,
+          "value": 0.0004749032437331145,
+          "nodes": [
+            "",
+            "hero-caption",
+            "header-inquiry",
+            null,
+            null
+          ]
+        },
+        {
+          "time": 2771.7000000001863,
+          "value": 0.0000384118190212373,
+          "nodes": [
+            "brand"
+          ]
+        },
+        {
+          "time": 10996,
+          "value": 0.23226205219110352,
+          "nodes": [
+            "contact-layout",
+            "",
+            "",
+            "",
+            "eyebrow"
+          ]
+        },
+        {
+          "time": 11238.399999999907,
+          "value": 0.0000414996449201979,
+          "nodes": [
+            "brand-logo"
+          ]
+        },
+        {
+          "time": 13370.5,
+          "value": 0.0000414996449201979,
+          "nodes": [
+            "brand"
+          ]
+        },
+        {
+          "time": 21155.899999999907,
+          "value": 0.48503561308026155,
+          "nodes": [
+            "contact-layout",
+            "contact-form",
+            "",
+            "",
+            "eyebrow"
+          ]
+        },
+        {
+          "time": 44920.200000000186,
+          "value": 0.29317389265739763,
+          "nodes": [
+            "contact-layout",
+            "",
+            "",
+            "eyebrow",
+            "brand"
+          ]
+        }
+      ],
+      "cls": 1.0110678722813575,
+      "lcp": 476,
+      "longTasks": [
+        {
+          "start": 2721.7000000001863,
+          "duration": 53
+        }
+      ]
+    }
+  },
+  {
+    "width": 390,
+    "height": 844,
+    "overflow": 0,
+    "scrollY": 0,
+    "scrollHeight": 3460,
+    "canvas": 0,
+    "webgl": "static-mobile",
+    "intro": "complete",
+    "heading": "A world of possibility.",
+    "active": "01",
+    "pins": 0,
+    "logo": [
+      {
+        "x": 22,
+        "y": 8.5,
+        "width": 86,
+        "height": 64,
+        "bottom": 72.5
+      },
+      {
+        "x": 24,
+        "y": 2786.203125,
+        "width": 112,
+        "height": 84,
+        "bottom": 2870.203125
+      }
+    ],
+    "gallery": null,
+    "cards": [
+      {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "bottom": 0
+      },
+      {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "bottom": 0
+      },
+      {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "bottom": 0
+      },
+      {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "bottom": 0
+      }
+    ],
+    "images": [],
+    "metrics": {
+      "shifts": [
+        {
+          "time": 123.20000000018626,
+          "value": 0.0004749032437331145,
+          "nodes": [
+            "",
+            "hero-caption",
+            "header-inquiry",
+            null,
+            null
+          ]
+        },
+        {
+          "time": 2771.7000000001863,
+          "value": 0.0000384118190212373,
+          "nodes": [
+            "brand"
+          ]
+        },
+        {
+          "time": 10996,
+          "value": 0.23226205219110352,
+          "nodes": [
+            "contact-layout",
+            "",
+            "",
+            "",
+            "eyebrow"
+          ]
+        },
+        {
+          "time": 11238.399999999907,
+          "value": 0.0000414996449201979,
+          "nodes": [
+            "brand-logo"
+          ]
+        },
+        {
+          "time": 13370.5,
+          "value": 0.0000414996449201979,
+          "nodes": [
+            "brand"
+          ]
+        },
+        {
+          "time": 21155.899999999907,
+          "value": 0.48503561308026155,
+          "nodes": [
+            "contact-layout",
+            "contact-form",
+            "",
+            "",
+            "eyebrow"
+          ]
+        },
+        {
+          "time": 44920.200000000186,
+          "value": 0.29317389265739763,
+          "nodes": [
+            "contact-layout",
+            "",
+            "",
+            "eyebrow",
+            "brand"
+          ]
+        }
+      ],
+      "cls": 1.0110678722813575,
+      "lcp": 476,
+      "longTasks": [
+        {
+          "start": 2721.7000000001863,
+          "duration": 53
+        }
+      ]
+    }
+  },
+  {
+    "width": 390,
+    "height": 844,
+    "overflow": 0,
+    "scrollY": 0,
+    "scrollHeight": 3205,
+    "canvas": 0,
+    "webgl": "static-mobile",
+    "intro": "complete",
+    "heading": "Clarity at every step.",
+    "active": "01",
+    "pins": 0,
+    "logo": [
+      {
+        "x": 22,
+        "y": 8.5,
+        "width": 86,
+        "height": 64,
+        "bottom": 72.5
+      },
+      {
+        "x": 24,
+        "y": 2531,
+        "width": 112,
+        "height": 84,
+        "bottom": 2615
+      }
+    ],
+    "gallery": null,
+    "cards": [
+      {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "bottom": 0
+      },
+      {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "bottom": 0
+      },
+      {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "bottom": 0
+      },
+      {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "bottom": 0
+      }
+    ],
+    "images": [],
+    "metrics": {
+      "shifts": [
+        {
+          "time": 123.20000000018626,
+          "value": 0.0004749032437331145,
+          "nodes": [
+            "",
+            "hero-caption",
+            "header-inquiry",
+            null,
+            null
+          ]
+        },
+        {
+          "time": 2771.7000000001863,
+          "value": 0.0000384118190212373,
+          "nodes": [
+            "brand"
+          ]
+        },
+        {
+          "time": 10996,
+          "value": 0.23226205219110352,
+          "nodes": [
+            "contact-layout",
+            "",
+            "",
+            "",
+            "eyebrow"
+          ]
+        },
+        {
+          "time": 11238.399999999907,
+          "value": 0.0000414996449201979,
+          "nodes": [
+            "brand-logo"
+          ]
+        },
+        {
+          "time": 13370.5,
+          "value": 0.0000414996449201979,
+          "nodes": [
+            "brand"
+          ]
+        },
+        {
+          "time": 21155.899999999907,
+          "value": 0.48503561308026155,
+          "nodes": [
+            "contact-layout",
+            "contact-form",
+            "",
+            "",
+            "eyebrow"
+          ]
+        },
+        {
+          "time": 44920.200000000186,
+          "value": 0.29317389265739763,
+          "nodes": [
+            "contact-layout",
+            "",
+            "",
+            "eyebrow",
+            "brand"
+          ]
+        }
+      ],
+      "cls": 1.0110678722813575,
+      "lcp": 476,
+      "longTasks": [
+        {
+          "start": 2721.7000000001863,
+          "duration": 53
+        }
+      ]
+    }
+  },
+  {
+    "width": 390,
+    "height": 844,
+    "overflow": 0,
+    "scrollY": 0,
+    "scrollHeight": 2838,
+    "canvas": 0,
+    "webgl": "static-mobile",
+    "intro": "complete",
+    "heading": "A more personalperspective.",
+    "active": "01",
+    "pins": 0,
+    "logo": [
+      {
+        "x": 22,
+        "y": 8.5,
+        "width": 86,
+        "height": 64,
+        "bottom": 72.5
+      },
+      {
+        "x": 24,
+        "y": 2163.671875,
+        "width": 112,
+        "height": 84,
+        "bottom": 2247.671875
+      }
+    ],
+    "gallery": null,
+    "cards": [
+      {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "bottom": 0
+      },
+      {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "bottom": 0
+      },
+      {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "bottom": 0
+      },
+      {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "bottom": 0
+      }
+    ],
+    "images": [],
+    "metrics": {
+      "shifts": [
+        {
+          "time": 123.20000000018626,
+          "value": 0.0004749032437331145,
+          "nodes": [
+            "",
+            "hero-caption",
+            "header-inquiry",
+            null,
+            null
+          ]
+        },
+        {
+          "time": 2771.7000000001863,
+          "value": 0.0000384118190212373,
+          "nodes": [
+            "brand"
+          ]
+        },
+        {
+          "time": 10996,
+          "value": 0.23226205219110352,
+          "nodes": [
+            "contact-layout",
+            "",
+            "",
+            "",
+            "eyebrow"
+          ]
+        },
+        {
+          "time": 11238.399999999907,
+          "value": 0.0000414996449201979,
+          "nodes": [
+            "brand-logo"
+          ]
+        },
+        {
+          "time": 13370.5,
+          "value": 0.0000414996449201979,
+          "nodes": [
+            "brand"
+          ]
+        },
+        {
+          "time": 21155.899999999907,
+          "value": 0.48503561308026155,
+          "nodes": [
+            "contact-layout",
+            "contact-form",
+            "",
+            "",
+            "eyebrow"
+          ]
+        },
+        {
+          "time": 44920.200000000186,
+          "value": 0.29317389265739763,
+          "nodes": [
+            "contact-layout",
+            "",
+            "",
+            "eyebrow",
+            "brand"
+          ]
+        }
+      ],
+      "cls": 1.0110678722813575,
+      "lcp": 476,
+      "longTasks": [
+        {
+          "start": 2721.7000000001863,
+          "duration": 53
+        }
+      ]
+    }
+  },
+  {
+    "width": 390,
+    "height": 844,
+    "overflow": 0,
+    "scrollY": 0,
+    "scrollHeight": 3026,
+    "canvas": 0,
+    "webgl": "static-mobile",
+    "intro": "complete",
+    "heading": "Your next chapterstarts here.",
+    "active": "01",
+    "pins": 0,
+    "logo": [
+      {
+        "x": 22,
+        "y": 8.5,
+        "width": 86,
+        "height": 64,
+        "bottom": 72.5
+      },
+      {
+        "x": 24,
+        "y": 2351.296875,
+        "width": 112,
+        "height": 84,
+        "bottom": 2435.296875
+      }
+    ],
+    "gallery": null,
+    "cards": [
+      {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "bottom": 0
+      },
+      {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "bottom": 0
+      },
+      {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "bottom": 0
+      },
+      {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "bottom": 0
+      }
+    ],
+    "images": [],
+    "metrics": {
+      "shifts": [
+        {
+          "time": 123.20000000018626,
+          "value": 0.0004749032437331145,
+          "nodes": [
+            "",
+            "hero-caption",
+            "header-inquiry",
+            null,
+            null
+          ]
+        },
+        {
+          "time": 2771.7000000001863,
+          "value": 0.0000384118190212373,
+          "nodes": [
+            "brand"
+          ]
+        },
+        {
+          "time": 10996,
+          "value": 0.23226205219110352,
+          "nodes": [
+            "contact-layout",
+            "",
+            "",
+            "",
+            "eyebrow"
+          ]
+        },
+        {
+          "time": 11238.399999999907,
+          "value": 0.0000414996449201979,
+          "nodes": [
+            "brand-logo"
+          ]
+        },
+        {
+          "time": 13370.5,
+          "value": 0.0000414996449201979,
+          "nodes": [
+            "brand"
+          ]
+        },
+        {
+          "time": 21155.899999999907,
+          "value": 0.48503561308026155,
+          "nodes": [
+            "contact-layout",
+            "contact-form",
+            "",
+            "",
+            "eyebrow"
+          ]
+        },
+        {
+          "time": 44920.200000000186,
+          "value": 0.29317389265739763,
+          "nodes": [
+            "contact-layout",
+            "",
+            "",
+            "eyebrow",
+            "brand"
+          ]
+        }
+      ],
+      "cls": 1.0110678722813575,
+      "lcp": 476,
+      "longTasks": [
+        {
+          "start": 2721.7000000001863,
+          "duration": 53
+        }
+      ]
+    }
+  },
+  {
+    "width": 320,
+    "height": 740,
+    "overflow": 0,
+    "scrollY": 0,
+    "scrollHeight": 8220,
+    "canvas": 0,
+    "webgl": "static-mobile",
+    "intro": "complete",
+    "heading": "Privacy.Precision.Performance.",
+    "active": "01",
+    "pins": 0,
+    "logo": [
+      {
+        "x": 18,
+        "y": 11,
+        "width": 78,
+        "height": 59,
+        "bottom": 70
+      },
+      {
+        "x": 24,
+        "y": 7398.3125,
+        "width": 112,
+        "height": 84,
+        "bottom": 7482.3125
+      }
+    ],
+    "gallery": {
+      "x": 0,
+      "y": 1465.53125,
+      "width": 305,
+      "height": 1016.03125,
+      "bottom": 2481.5625
+    },
+    "cards": [
+      {
+        "x": 24,
+        "y": 1867.625,
+        "width": 255,
+        "height": 481.953125,
+        "bottom": 2349.578125
+      },
+      {
+        "x": 301,
+        "y": 1867.625,
+        "width": 255,
+        "height": 481.953125,
+        "bottom": 2349.578125
+      },
+      {
+        "x": 578,
+        "y": 1867.625,
+        "width": 255,
+        "height": 481.953125,
+        "bottom": 2349.578125
+      },
+      {
+        "x": 855,
+        "y": 1867.625,
+        "width": 255,
+        "height": 481.953125,
+        "bottom": 2349.578125
+      }
+    ],
+    "images": [],
+    "metrics": {
+      "shifts": [
+        {
+          "time": 123.20000000018626,
+          "value": 0.0004749032437331145,
+          "nodes": [
+            "",
+            "hero-caption",
+            "header-inquiry",
+            null,
+            null
+          ]
+        },
+        {
+          "time": 2771.7000000001863,
+          "value": 0.0000384118190212373,
+          "nodes": [
+            "brand"
+          ]
+        },
+        {
+          "time": 10996,
+          "value": 0.23226205219110352,
+          "nodes": [
+            "contact-layout",
+            "",
+            "",
+            "",
+            "eyebrow"
+          ]
+        },
+        {
+          "time": 11238.399999999907,
+          "value": 0.0000414996449201979,
+          "nodes": [
+            "brand-logo"
+          ]
+        },
+        {
+          "time": 13370.5,
+          "value": 0.0000414996449201979,
+          "nodes": [
+            "brand"
+          ]
+        },
+        {
+          "time": 21155.899999999907,
+          "value": 0.48503561308026155,
+          "nodes": [
+            "contact-layout",
+            "contact-form",
+            "",
+            "",
+            "eyebrow"
+          ]
+        },
+        {
+          "time": 44920.200000000186,
+          "value": 0.29317389265739763,
+          "nodes": [
+            "contact-layout",
+            "",
+            "",
+            "eyebrow",
+            "brand"
+          ]
+        },
+        {
+          "time": 54586.299999999814,
+          "value": 0.024945698218156127,
+          "nodes": [
+            "contact-layout",
+            "brand",
+            "header-inquiry"
+          ]
+        }
+      ],
+      "cls": 1.0360135704995137,
+      "lcp": 476,
+      "longTasks": [
+        {
+          "start": 2721.7000000001863,
+          "duration": 53
+        }
+      ]
+    }
+  },
+  {
+    "width": 320,
+    "height": 740,
+    "overflow": 0,
+    "scrollY": 0,
+    "scrollHeight": 3602,
+    "canvas": 0,
+    "webgl": "static-mobile",
+    "intro": "complete",
+    "heading": "Find your perspective.",
+    "active": "01",
+    "pins": 0,
+    "logo": [
+      {
+        "x": 18,
+        "y": 11,
+        "width": 78,
+        "height": 59,
+        "bottom": 70
+      },
+      {
+        "x": 24,
+        "y": 2780.5625,
+        "width": 112,
+        "height": 84,
+        "bottom": 2864.5625
+      }
+    ],
+    "gallery": null,
+    "cards": [
+      {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "bottom": 0
+      },
+      {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "bottom": 0
+      },
+      {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "bottom": 0
+      },
+      {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "bottom": 0
+      }
+    ],
+    "images": [],
+    "metrics": {
+      "shifts": [
+        {
+          "time": 123.20000000018626,
+          "value": 0.0004749032437331145,
+          "nodes": [
+            "",
+            "hero-caption",
+            "header-inquiry",
+            null,
+            null
+          ]
+        },
+        {
+          "time": 2771.7000000001863,
+          "value": 0.0000384118190212373,
+          "nodes": [
+            "brand"
+          ]
+        },
+        {
+          "time": 10996,
+          "value": 0.23226205219110352,
+          "nodes": [
+            "contact-layout",
+            "",
+            "",
+            "",
+            "eyebrow"
+          ]
+        },
+        {
+          "time": 11238.399999999907,
+          "value": 0.0000414996449201979,
+          "nodes": [
+            "brand-logo"
+          ]
+        },
+        {
+          "time": 13370.5,
+          "value": 0.0000414996449201979,
+          "nodes": [
+            "brand"
+          ]
+        },
+        {
+          "time": 21155.899999999907,
+          "value": 0.48503561308026155,
+          "nodes": [
+            "contact-layout",
+            "contact-form",
+            "",
+            "",
+            "eyebrow"
+          ]
+        },
+        {
+          "time": 44920.200000000186,
+          "value": 0.29317389265739763,
+          "nodes": [
+            "contact-layout",
+            "",
+            "",
+            "eyebrow",
+            "brand"
+          ]
+        },
+        {
+          "time": 54586.299999999814,
+          "value": 0.024945698218156127,
+          "nodes": [
+            "contact-layout",
+            "brand",
+            "header-inquiry"
+          ]
+        }
+      ],
+      "cls": 1.0360135704995137,
+      "lcp": 476,
+      "longTasks": [
+        {
+          "start": 2721.7000000001863,
+          "duration": 53
+        }
+      ]
+    }
+  },
+  {
+    "width": 320,
+    "height": 740,
+    "overflow": 0,
+    "scrollY": 0,
+    "scrollHeight": 3800,
+    "canvas": 0,
+    "webgl": "static-mobile",
+    "intro": "complete",
+    "heading": "A world of possibility.",
+    "active": "01",
+    "pins": 0,
+    "logo": [
+      {
+        "x": 18,
+        "y": 11,
+        "width": 78,
+        "height": 59,
+        "bottom": 70
+      },
+      {
+        "x": 24,
+        "y": 2978.0625,
+        "width": 112,
+        "height": 84,
+        "bottom": 3062.0625
+      }
+    ],
+    "gallery": null,
+    "cards": [
+      {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "bottom": 0
+      },
+      {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "bottom": 0
+      },
+      {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "bottom": 0
+      },
+      {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "bottom": 0
+      }
+    ],
+    "images": [],
+    "metrics": {
+      "shifts": [
+        {
+          "time": 123.20000000018626,
+          "value": 0.0004749032437331145,
+          "nodes": [
+            "",
+            "hero-caption",
+            "header-inquiry",
+            null,
+            null
+          ]
+        },
+        {
+          "time": 2771.7000000001863,
+          "value": 0.0000384118190212373,
+          "nodes": [
+            "brand"
+          ]
+        },
+        {
+          "time": 10996,
+          "value": 0.23226205219110352,
+          "nodes": [
+            "contact-layout",
+            "",
+            "",
+            "",
+            "eyebrow"
+          ]
+        },
+        {
+          "time": 11238.399999999907,
+          "value": 0.0000414996449201979,
+          "nodes": [
+            "brand-logo"
+          ]
+        },
+        {
+          "time": 13370.5,
+          "value": 0.0000414996449201979,
+          "nodes": [
+            "brand"
+          ]
+        },
+        {
+          "time": 21155.899999999907,
+          "value": 0.48503561308026155,
+          "nodes": [
+            "contact-layout",
+            "contact-form",
+            "",
+            "",
+            "eyebrow"
+          ]
+        },
+        {
+          "time": 44920.200000000186,
+          "value": 0.29317389265739763,
+          "nodes": [
+            "contact-layout",
+            "",
+            "",
+            "eyebrow",
+            "brand"
+          ]
+        },
+        {
+          "time": 54586.299999999814,
+          "value": 0.024945698218156127,
+          "nodes": [
+            "contact-layout",
+            "brand",
+            "header-inquiry"
+          ]
+        }
+      ],
+      "cls": 1.0360135704995137,
+      "lcp": 476,
+      "longTasks": [
+        {
+          "start": 2721.7000000001863,
+          "duration": 53
+        }
+      ]
+    }
+  },
+  {
+    "width": 320,
+    "height": 740,
+    "overflow": 0,
+    "scrollY": 0,
+    "scrollHeight": 3483,
+    "canvas": 0,
+    "webgl": "static-mobile",
+    "intro": "complete",
+    "heading": "Clarity at every step.",
+    "active": "01",
+    "pins": 0,
+    "logo": [
+      {
+        "x": 18,
+        "y": 11,
+        "width": 78,
+        "height": 59,
+        "bottom": 70
+      },
+      {
+        "x": 24,
+        "y": 2661.484375,
+        "width": 112,
+        "height": 84,
+        "bottom": 2745.484375
+      }
+    ],
+    "gallery": null,
+    "cards": [
+      {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "bottom": 0
+      },
+      {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "bottom": 0
+      },
+      {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "bottom": 0
+      },
+      {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "bottom": 0
+      }
+    ],
+    "images": [],
+    "metrics": {
+      "shifts": [
+        {
+          "time": 123.20000000018626,
+          "value": 0.0004749032437331145,
+          "nodes": [
+            "",
+            "hero-caption",
+            "header-inquiry",
+            null,
+            null
+          ]
+        },
+        {
+          "time": 2771.7000000001863,
+          "value": 0.0000384118190212373,
+          "nodes": [
+            "brand"
+          ]
+        },
+        {
+          "time": 10996,
+          "value": 0.23226205219110352,
+          "nodes": [
+            "contact-layout",
+            "",
+            "",
+            "",
+            "eyebrow"
+          ]
+        },
+        {
+          "time": 11238.399999999907,
+          "value": 0.0000414996449201979,
+          "nodes": [
+            "brand-logo"
+          ]
+        },
+        {
+          "time": 13370.5,
+          "value": 0.0000414996449201979,
+          "nodes": [
+            "brand"
+          ]
+        },
+        {
+          "time": 21155.899999999907,
+          "value": 0.48503561308026155,
+          "nodes": [
+            "contact-layout",
+            "contact-form",
+            "",
+            "",
+            "eyebrow"
+          ]
+        },
+        {
+          "time": 44920.200000000186,
+          "value": 0.29317389265739763,
+          "nodes": [
+            "contact-layout",
+            "",
+            "",
+            "eyebrow",
+            "brand"
+          ]
+        },
+        {
+          "time": 54586.299999999814,
+          "value": 0.024945698218156127,
+          "nodes": [
+            "contact-layout",
+            "brand",
+            "header-inquiry"
+          ]
+        }
+      ],
+      "cls": 1.0360135704995137,
+      "lcp": 476,
+      "longTasks": [
+        {
+          "start": 2721.7000000001863,
+          "duration": 53
+        }
+      ]
+    }
+  },
+  {
+    "width": 320,
+    "height": 740,
+    "overflow": 0,
+    "scrollY": 0,
+    "scrollHeight": 3138,
+    "canvas": 0,
+    "webgl": "static-mobile",
+    "intro": "complete",
+    "heading": "A more personalperspective.",
+    "active": "01",
+    "pins": 0,
+    "logo": [
+      {
+        "x": 18,
+        "y": 11,
+        "width": 78,
+        "height": 59,
+        "bottom": 70
+      },
+      {
+        "x": 24,
+        "y": 2316.140625,
+        "width": 112,
+        "height": 84,
+        "bottom": 2400.140625
+      }
+    ],
+    "gallery": null,
+    "cards": [
+      {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "bottom": 0
+      },
+      {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "bottom": 0
+      },
+      {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "bottom": 0
+      },
+      {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "bottom": 0
+      }
+    ],
+    "images": [],
+    "metrics": {
+      "shifts": [
+        {
+          "time": 123.20000000018626,
+          "value": 0.0004749032437331145,
+          "nodes": [
+            "",
+            "hero-caption",
+            "header-inquiry",
+            null,
+            null
+          ]
+        },
+        {
+          "time": 2771.7000000001863,
+          "value": 0.0000384118190212373,
+          "nodes": [
+            "brand"
+          ]
+        },
+        {
+          "time": 10996,
+          "value": 0.23226205219110352,
+          "nodes": [
+            "contact-layout",
+            "",
+            "",
+            "",
+            "eyebrow"
+          ]
+        },
+        {
+          "time": 11238.399999999907,
+          "value": 0.0000414996449201979,
+          "nodes": [
+            "brand-logo"
+          ]
+        },
+        {
+          "time": 13370.5,
+          "value": 0.0000414996449201979,
+          "nodes": [
+            "brand"
+          ]
+        },
+        {
+          "time": 21155.899999999907,
+          "value": 0.48503561308026155,
+          "nodes": [
+            "contact-layout",
+            "contact-form",
+            "",
+            "",
+            "eyebrow"
+          ]
+        },
+        {
+          "time": 44920.200000000186,
+          "value": 0.29317389265739763,
+          "nodes": [
+            "contact-layout",
+            "",
+            "",
+            "eyebrow",
+            "brand"
+          ]
+        },
+        {
+          "time": 54586.299999999814,
+          "value": 0.024945698218156127,
+          "nodes": [
+            "contact-layout",
+            "brand",
+            "header-inquiry"
+          ]
+        }
+      ],
+      "cls": 1.0360135704995137,
+      "lcp": 476,
+      "longTasks": [
+        {
+          "start": 2721.7000000001863,
+          "duration": 53
+        }
+      ]
+    }
+  },
+  {
+    "width": 320,
+    "height": 740,
+    "overflow": 0,
+    "scrollY": 0,
+    "scrollHeight": 3247,
+    "canvas": 0,
+    "webgl": "static-mobile",
+    "intro": "complete",
+    "heading": "Your next chapterstarts here.",
+    "active": "01",
+    "pins": 0,
+    "logo": [
+      {
+        "x": 18,
+        "y": 11,
+        "width": 78,
+        "height": 59,
+        "bottom": 70
+      },
+      {
+        "x": 24,
+        "y": 2425.515625,
+        "width": 112,
+        "height": 84,
+        "bottom": 2509.515625
+      }
+    ],
+    "gallery": null,
+    "cards": [
+      {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "bottom": 0
+      },
+      {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "bottom": 0
+      },
+      {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "bottom": 0
+      },
+      {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "bottom": 0
+      }
+    ],
+    "images": [],
+    "metrics": {
+      "shifts": [
+        {
+          "time": 123.20000000018626,
+          "value": 0.0004749032437331145,
+          "nodes": [
+            "",
+            "hero-caption",
+            "header-inquiry",
+            null,
+            null
+          ]
+        },
+        {
+          "time": 2771.7000000001863,
+          "value": 0.0000384118190212373,
+          "nodes": [
+            "brand"
+          ]
+        },
+        {
+          "time": 10996,
+          "value": 0.23226205219110352,
+          "nodes": [
+            "contact-layout",
+            "",
+            "",
+            "",
+            "eyebrow"
+          ]
+        },
+        {
+          "time": 11238.399999999907,
+          "value": 0.0000414996449201979,
+          "nodes": [
+            "brand-logo"
+          ]
+        },
+        {
+          "time": 13370.5,
+          "value": 0.0000414996449201979,
+          "nodes": [
+            "brand"
+          ]
+        },
+        {
+          "time": 21155.899999999907,
+          "value": 0.48503561308026155,
+          "nodes": [
+            "contact-layout",
+            "contact-form",
+            "",
+            "",
+            "eyebrow"
+          ]
+        },
+        {
+          "time": 44920.200000000186,
+          "value": 0.29317389265739763,
+          "nodes": [
+            "contact-layout",
+            "",
+            "",
+            "eyebrow",
+            "brand"
+          ]
+        },
+        {
+          "time": 54586.299999999814,
+          "value": 0.024945698218156127,
+          "nodes": [
+            "contact-layout",
+            "brand",
+            "header-inquiry"
+          ]
+        }
+      ],
+      "cls": 1.0360135704995137,
+      "lcp": 476,
+      "longTasks": [
+        {
+          "start": 2721.7000000001863,
+          "duration": 53
+        }
+      ]
+    }
+  }
+]

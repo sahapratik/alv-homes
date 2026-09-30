@@ -1,0 +1,46 @@
+[
+  {
+    "file": "ALV-Owner-Journey.mp4",
+    "viewport": [
+      1280,
+      820
+    ],
+    "seconds": 82.054,
+    "captured_frames": 750,
+    "capture_fps": 9.14,
+    "max_capture_gap_ms": 165
+  },
+  {
+    "file": "ALV-Uncut-Scroll.mp4",
+    "viewport": [
+      1280,
+      820
+    ],
+    "seconds": 62.024,
+    "captured_frames": 583,
+    "capture_fps": 9.4,
+    "max_capture_gap_ms": 154
+  },
+  {
+    "file": "ALV-Mobile.mp4",
+    "viewport": [
+      390,
+      844
+    ],
+    "seconds": 22.079,
+    "captured_frames": 211,
+    "capture_fps": 9.56,
+    "max_capture_gap_ms": 145
+  },
+  {
+    "file": "ALV-Reduced-Motion.mp4",
+    "viewport": [
+      1280,
+      820
+    ],
+    "seconds": 22.035,
+    "captured_frames": 209,
+    "capture_fps": 9.48,
+    "max_capture_gap_ms": 140
+  }
+]

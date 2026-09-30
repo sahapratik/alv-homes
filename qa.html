@@ -1,0 +1,50 @@
+<!doctype html><html><head><meta charset="UTF-8"><title>ALV motion verification</title><style>body{margin:0;height:100vh;overflow:hidden;background:#cdd5d6;font:13px Arial;color:#183a42}header{display:flex;flex-wrap:wrap;align-items:center;gap:8px;padding:10px 14px;position:sticky;top:0;background:#fff;z-index:2}button,select{padding:6px}#stage{margin:14px auto;overflow:hidden}#frame{display:block;border:0;margin:0;background:#092630;transform-origin:top left}#summary{padding:10px;max-width:100%;display:block;white-space:pre-wrap;font:11px monospace}label{white-space:nowrap}</style></head><body><header><label>Version <select id="version"><option value="/">Refined</option><option value="/baseline/index.html">Baseline</option></select></label><label>Viewport <select id="viewport"><option>1440 × 900</option><option>1024 × 768</option><option>768 × 1024</option><option>390 × 844</option><option>320 × 740</option><option>1440 × 700</option><option>1280 × 820</option></select></label><label>Page <select id="page"><option>home</option><option>properties</option><option>markets</option><option>services</option><option>about</option><option>contact</option></select></label><button id="reload">First visit</button><button id="no-intro">Without intro</button><button id="measure">Measure</button><label>Section <select id="section"><option value="#hero">Hero</option><option value="#statement">Statement</option><option value="#featured">Collection</option><option value=".categories">Categories</option><option value=".markets-home">Markets</option><option value=".journey">Services</option><option value=".testimonial">Testimonial</option><option value=".closing">Closing</option><option value=".footer">Footer</option></select></label><button id="jump">Go</button><button id="sweep">60s scroll</button><button id="reverse">Reverse</button><button id="stop">Stop</button><button id="sample">Sample frames</button><button id="owner">Owner journey</button></header><div id="stage"><iframe id="frame" title="ALV website under test" width="1440" height="900" src="/?qa=1"></iframe></div><output id="summary">Ready</output><script type="module">
+const $=s=>document.querySelector(s),frame=$('#frame'),summary=$('#summary');let run=0;
+function resize(){const [w,h]=$('#viewport').value.split(' × ').map(Number);frame.width=w;frame.height=h;const scale=Math.min(1,(innerWidth-32)/w,(innerHeight-document.querySelector("header").offsetHeight-28)/h);$('#stage').style.width=w*scale+'px';$('#stage').style.height=h*scale+'px';frame.style.transform='scale('+scale+')'}$('#viewport').onchange=resize;resize();addEventListener('resize',resize);
+function load(intro='1'){frame.src=$('#version').value+'?qa=1&run='+Date.now()+'&intro='+intro+'#'+$('#page').value;}
+$('#version').onchange=()=>load('off');$('#page').onchange=()=>{frame.contentWindow.location.hash=$('#page').value};$('#reload').onclick=()=>load();$('#no-intro').onclick=()=>load('off');
+const rect=e=>{const r=e.getBoundingClientRect();return {x:r.x,y:r.y,width:r.width,height:r.height,bottom:r.bottom}};
+function measure(){const d=frame.contentDocument,w=frame.contentWindow;const data={width:w.innerWidth,height:w.innerHeight,overflow:d.documentElement.scrollWidth-d.documentElement.clientWidth,scrollY:w.scrollY,scrollHeight:d.documentElement.scrollHeight,canvas:d.querySelectorAll('canvas').length,webgl:d.documentElement.dataset.webgl,intro:d.documentElement.dataset.intro,heading:d.querySelector('#home-page:not([hidden]) h1,#route-page:not([hidden]) h1')?.textContent,active:d.querySelector('#gallery-number')?.textContent,pins:d.querySelectorAll('.pin-spacer').length,logo:[...d.querySelectorAll('.brand-logo')].map(rect),gallery:d.querySelector('#home-page:not([hidden]) .gallery-stage')?rect(d.querySelector('.gallery-stage')):null,cards:[...d.querySelectorAll('#property-rail .property-card')].map(rect),images:[...d.images].filter(x=>x.complete&&!x.naturalWidth).map(x=>x.getAttribute('src')),metrics:{...w.__qa,marks:w.performance.getEntriesByType('mark').filter(m=>m.name.startsWith('alv-')).map(m=>({name:m.name,time:m.startTime}))}};summary.value=JSON.stringify(data,null,2);document.body.dataset.report=JSON.stringify(data);return data;}
+$('#measure').onclick=measure;frame.onload=()=>{const w=frame.contentWindow;w.__qa={};try{new w.PerformanceObserver(l=>{w.__qa.lcp=l.getEntries().at(-1)?.startTime}).observe({type:'largest-contentful-paint',buffered:true});new w.PerformanceObserver(l=>{w.__qa.shifts=(w.__qa.shifts||[]).concat(l.getEntries().filter(x=>!x.hadRecentInput).map(x=>({time:x.startTime,value:x.value,nodes:x.sources.map(s=>s.node?.className)})));w.__qa.cls=(w.__qa.cls||0)+l.getEntries().filter(x=>!x.hadRecentInput).reduce((s,x)=>s+x.value,0)}).observe({type:'layout-shift',buffered:true});new w.PerformanceObserver(l=>{w.__qa.longTasks=(w.__qa.longTasks||[]).concat(l.getEntries().map(x=>({start:x.startTime,duration:x.duration})))}).observe({type:'longtask',buffered:true})}catch{};measure()};
+$('#jump').onclick=()=>{const e=frame.contentDocument.querySelector($('#section').value);if(e)frame.contentWindow.scrollTo({top:e.getBoundingClientRect().top+frame.contentWindow.scrollY-82,behavior:'instant'});measure()};
+function sweep(reverse=false){const w=frame.contentWindow,d=frame.contentDocument,token=++run;const max=d.documentElement.scrollHeight-w.innerHeight,start=w.performance.now();function tick(t){if(token!==run)return;const p=Math.min(1,(t-start)/60000);w.scrollTo({top:max*(reverse?1-p:p),behavior:'instant'});if(p<1)w.requestAnimationFrame(tick);else measure()}w.requestAnimationFrame(tick);summary.value='Continuous 60-second native scroll in progress';}
+$('#sweep').onclick=()=>sweep();$('#reverse').onclick=()=>sweep(true);$('#stop').onclick=()=>{run++;measure()};
+const quick=document.createElement('button');quick.id='quick';quick.textContent='20s alternatives';document.querySelector('header').append(quick);
+quick.onclick=()=>{const w=frame.contentWindow,d=frame.contentDocument,token=++run,start=w.performance.now(),max=d.documentElement.scrollHeight-w.innerHeight;function tick(t){if(token!==run)return;const p=Math.min(1,(t-start)/20000);w.scrollTo({top:max*p,behavior:'instant'});if(p<1)w.requestAnimationFrame(tick);else measure()}w.requestAnimationFrame(tick)};
+$('#sample').onclick=()=>{const w=frame.contentWindow,times=[],start=w.performance.now();let last=start;function tick(t){times.push(t-last);last=t;if(t-start<5000)w.requestAnimationFrame(tick);else{times.sort((a,b)=>a-b);w.__qa.frames={count:times.length,median:times[Math.floor(times.length*.5)],p95:times[Math.floor(times.length*.95)],over50:times.filter(x=>x>50).length};measure()}}w.requestAnimationFrame(tick);summary.value='Sampling five seconds of animation frames.'};
+
+// Reproducible operator journey. This development page is excluded from the production build.
+$('#owner').onclick=()=>{
+ $('#page').value='home';
+ const own=++run;
+ frame.addEventListener('load',()=>{
+  const w=frame.contentWindow,d=frame.contentDocument,start=w.performance.now();
+  const top=selector=>d.querySelector(selector).getBoundingClientRect().top+w.scrollY-82;
+  const gallery=()=>({start:top('#featured'),end:top('#featured')+d.querySelector('#featured').offsetHeight-d.querySelector('.gallery-stage').offsetHeight});
+  let fired=new Set();
+  const event=(time,name,fn,t)=>{if(t>=time&&!fired.has(name)){fired.add(name);fn()}};
+  const move=(a,b,from,to,t)=>{if(t<a||t>b)return;const u=(t-a)/(b-a);w.scrollTo({top:from+(to-from)*(u*u*(3-2*u)),behavior:'instant'})};
+  function tick(now){
+   if(run!==own)return;const t=(now-start)/1000,g=gallery();
+   if(t<63){
+    move(4,10,0,top('#statement'),t);move(13,18,top('#statement'),g.start+1,t);
+    move(20,29,g.start+1,g.end,t);move(30,33,g.end,g.start+(g.end-g.start)*.25,t);
+    event(34,'next',()=>d.querySelector('#gallery-next').click(),t);
+    move(36,40,w.__ownerCategoryStart??=g.start+(g.end-g.start)*.65,top('.categories'),t);
+    event(41,'category',()=>d.querySelectorAll('#categories a')[2].focus({preventScroll:true}),t);
+    move(43,48,top('.categories'),top('.markets-home')+300,t);
+    move(49,53,top('.markets-home')+300,top('.journey'),t);
+    event(54,'accordion',()=>d.querySelectorAll('#journey-steps summary')[1].click(),t);
+    move(56,59,top('.journey'),top('.testimonial'),t);move(60,63,top('.testimonial'),top('.closing'),t);
+   }
+   event(65,'properties',()=>d.querySelector('#navigation a[href="#properties"]').click(),t);
+   event(68,'filter',()=>d.querySelector('[data-filter="Villas"]').click(),t);
+   event(70,'back-filter',()=>w.history.back(),t);
+   event(72,'back-home',()=>w.history.back(),t);
+   event(74,'contact',()=>d.querySelector('.header-inquiry').click(),t);
+   if(t<79)w.requestAnimationFrame(tick);else{measure();summary.value='Owner journey complete · 79 seconds';}
+  }
+  w.requestAnimationFrame(tick);
+ },{once:true});load();
+};
+</script></body></html>
